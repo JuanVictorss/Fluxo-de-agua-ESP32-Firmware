@@ -1,0 +1,13 @@
+menu "Example Connection Configuration"
+
+    config EXAMPLE_WIFI_SSID
+        string "WiFi SSID"
+        help
+            O nome (SSID) da rede Wi-Fi que o ESP32 deve conectar.
+
+    config EXAMPLE_WIFI_PASSWORD
+        string "WiFi Password"
+        help
+            A senha da rede Wi-Fi.
+
+endmenu
