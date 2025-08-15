@@ -8,11 +8,6 @@
 
 ---
 
-## 🔗 Repositórios Relacionados
-
-[![Backend](https://img.shields.io/badge/GitHub-Backend-blue?logo=github)](https://github.com/usuario/fluxo-de-agua-backend)
-[![Frontend](https://img.shields.io/badge/GitHub-Frontend-green?logo=github)](https://github.com/usuario/fluxo-de-agua-frontend)
-
 ## 📜 Visão Geral
 
 Este projeto utiliza um **ESP32** para medir a **vazão (L/min)** e o **volume total (L)** de água que passa por um **sensor YF-S201**.  
@@ -208,13 +203,13 @@ Formato JSON:
 
 ---
 
-## 🔗 Repositórios Para verificação gráfica em tempo real
 
-Aqui você vai poder montar e rodar o frontend e o backend e terá a aplicação completa.
+## 🔗 Repositórios Relacionados
 
-- **Backend**: [fluxo-de-agua-backend](https://github.com/usuario/fluxo-de-agua-backend)
-- **Frontend**: [fluxo-de-agua-frontend](https://github.com/usuario/fluxo-de-agua-frontend)
+- [📂 Frontend](https://github.com/JuanVictorss/Fluxo-de-agua-Frontend)
+- [📂 Backend](https://github.com/JuanVictorss/Fluxo-de-agua-Backend)
 
+---
 ## 📜 Licença
 
 Este projeto está sob licença **MIT**.  
