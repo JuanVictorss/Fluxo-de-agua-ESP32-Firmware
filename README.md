@@ -118,7 +118,7 @@ idf.py build
 ### ✅ 5. Conectando o esp32
 
 ```bash
-Para conectar no modo flash segure o botão boot da placa enquanto liga ela
+Para conectar no modo flash segure o botão boot da placa enquanto conecta o cabo USB nela.
 ```
 
 ### ✅ 6. Verificando a porta que conectou
