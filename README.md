@@ -73,7 +73,7 @@ fluxo-de-agua/
 - **ESP-IDF instalado e configurado**  
   👉 [Guia oficial](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/)
 
-## !!! PARA COMANDO idf.py VOCÊ PRECISARÁ UTILIZAR O ESP-IDF CMD !!!
+## !!! PARA COMANDOS "idf.py" VOCÊ PRECISARÁ UTILIZAR O ESP-IDF CMD !!!
 ### ✅ 2. Clonar o repositório
 
 ```bash
