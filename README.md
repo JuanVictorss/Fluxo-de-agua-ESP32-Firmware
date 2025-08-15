@@ -132,9 +132,9 @@ Vai aparecer a PORTA_SERIAL que está sendo utilizada.
 O nome da porta (ex: COM3) pode mudar se você conectar a placa em uma entrada USB diferente no seu computador.
 
 ### ✅ 7. Gravar no ESP32
-
+COM4 é a PORTA_SERIAL, pode mudar de acordo com a entrada USB que você utilizar.
 ```bash
-idf.py -p PORTA_SERIAL flash
+idf.py -p COM4 flash
 ```
 
 ---
@@ -142,9 +142,9 @@ idf.py -p PORTA_SERIAL flash
 ## 📊 Monitoramento
 
 ### 🔍 Monitor Serial
-
+COM4 é a PORTA_SERIAL, pode mudar de acordo com a entrada USB que você utilizar.
 ```bash
-idf.py -p PORTA_SERIAL monitor
+idf.py -p COM4 monitor
 ```
 
 Exemplo de saída:
