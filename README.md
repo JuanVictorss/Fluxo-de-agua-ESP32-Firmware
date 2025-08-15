@@ -75,6 +75,8 @@ fluxo-de-agua/
 
 ## !!! PARA COMANDOS "idf.py" VOCÊ PRECISARÁ UTILIZAR O ESP-IDF CMD !!!
 ### ✅ 2. Clonar o repositório
+Dica: O sistema de compilação do ESP-IDF tem problemas com caracteres especiais, espaços e acentos nos caminhos (nomes de pastas).
+Então evite clonar em uma pasta ou subpastas com caracteres especiais no nome.
 
 ```bash
 git clone https://github.com/JuanVictorss/Fluxo-de-agua-ESP32-Firmware.git
