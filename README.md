@@ -152,6 +152,18 @@ COM4 é a PORTA_SERIAL, pode mudar de acordo com a entrada USB que você utiliza
 ```bash
 idf.py -p COM4 monitor
 ```
+Aqui você vai conseguir monitorar os logs pelo terminal dessa forma abaixo:
+```bash
+I (85716) FLUXO_AGUA_MQTT: Vazão: 0.00 L/min (Pulsos: 0) | Total Acumulado: 0.00 L
+I (86716) FLUXO_AGUA_MQTT: Vazão: 0.00 L/min (Pulsos: 0) | Total Acumulado: 0.00 L
+I (87716) FLUXO_AGUA_MQTT: Vazão: 0.00 L/min (Pulsos: 0) | Total Acumulado: 0.00 L
+I (88716) FLUXO_AGUA_MQTT: Fluxo iniciado!
+I (88716) FLUXO_AGUA_MQTT: Vazão: 5.33 L/min (Pulsos: 40) | Total Acumulado: 0.09 L
+I (89716) FLUXO_AGUA_MQTT: Vazão: 4.53 L/min (Pulsos: 34) | Total Acumulado: 0.16 L
+I (90716) FLUXO_AGUA_MQTT: Vazão: 1.47 L/min (Pulsos: 11) | Total Acumulado: 0.19 L
+I (91716) FLUXO_AGUA_MQTT: Fluxo parado!
+I (91716) FLUXO_AGUA_MQTT: Vazão: 0.00 L/min (Pulsos: 0) | Total Acumulado: 0.19 L
+```
 
 Exemplo de saída:
 
