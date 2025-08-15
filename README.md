@@ -7,6 +7,8 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
+## [Aplicação Online](https://fluxo-de-agua-frontend.vercel.app/)
+---
 
 ## 📜 Visão Geral
 
