@@ -77,7 +77,7 @@ fluxo-de-agua/
 ### ✅ 2. Clonar o repositório
 
 ```bash
-git clone
+git clone https://github.com/JuanVictorss/Fluxo-de-agua-ESP32-Firmware.git
 cd fluxo-de-agua
 ```
 
