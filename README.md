@@ -136,6 +136,12 @@ COM4 é a PORTA_SERIAL, pode mudar de acordo com a entrada USB que você utiliza
 ```bash
 idf.py -p COM4 flash
 ```
+Ao finalizar você verá algo como:
+```bash
+Leaving...
+Hard resetting via RTS pin...
+Done
+```
 
 ---
 
