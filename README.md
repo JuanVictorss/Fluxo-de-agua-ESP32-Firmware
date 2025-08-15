@@ -78,7 +78,7 @@ fluxo-de-agua/
 
 ```bash
 git clone https://github.com/JuanVictorss/Fluxo-de-agua-ESP32-Firmware.git
-cd fluxo-de-agua
+cd Fluxo-de-agua-ESP32-Firmware
 ```
 
 ### ✅ 3. Configurar Wi-Fi
