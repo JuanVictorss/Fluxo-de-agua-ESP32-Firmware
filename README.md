@@ -92,7 +92,7 @@ idf.py menuconfig
 ```
 
 Vá em: **Example Connection Configuration**  
-Insira SSID(nome) e Password(senha) do Wi-Fi.  
+Insira WiFi SSID(nome) e WiFi Password(senha) do Wi-Fi.  
 Salve(S) e saia(Q).
 
 Broker MQTT padrão:
